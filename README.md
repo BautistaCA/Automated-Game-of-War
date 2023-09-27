@@ -1,3 +1,4 @@
+A rudimentary Card Game Simulator
 # week06CodingAssignment
 Coding assignment for Week 06 of Promineo Tech's Backend Cohort.
 The assignment was to make a simplified/automated version of the cardgame "War."
